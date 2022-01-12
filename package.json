@@ -1,0 +1,22 @@
+{
+  "name": "sberspeech",
+  "version": "1.0.0",
+  "description": "Библиотека для использования SberSpeech для интеграции на web-сайт распознавания и генерации голоса",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aatk/sberspeech.git"
+  },
+  "homepage": "https://github.com/aatk/sberspeech.git",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cross-fetch": "^3.1.4",
+    "ffmpeg": "^0.0.4",
+    "js-base64": "^3.7.2",
+    "uuid": "^8.3.2"
+  }
+}
